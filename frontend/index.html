@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>NYC Taxi Hotspots</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Leaflet CSS (CDN) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
+  <!-- your app CSS served via Flask static path -->
+  <link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+<body>
+  <div id="header">
+    <h2>NYC Taxi Hotspots</h2>
+    <div id="controls" style="margin-top: 8px;">
+      <label for="hourInput">Select Hour (0–23): </label>
+      <input type="number" id="hourInput" min="0" max="23" value="0" style="width:60px;">
+      <button id="loadBtn">Load Hotspots</button>
+    </div>
+  </div>
+
+  <div id="map"></div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+  <!-- your app JS via Flask static path -->
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
+

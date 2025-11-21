@@ -1,0 +1,264 @@
+LocationID,Zone,Borough,Latitude,Longitude
+1,Newark Airport,EWR,40.6895,-74.1745
+2,Jamaica Station,Queens,40.7012,-73.7973
+3,Allerton/Pelham Parkway,Bronx,40.8519,-73.8628
+4,Alphabet City,Manhattan,40.7282,-73.9776
+5,Anbrose Park,Bronx,40.8448,-73.8648
+6,Astoria,Queens,40.7614,-73.9776
+7,Astoria Park,Queens,40.7614,-73.9580
+8,Astoria-Long Island City,Queens,40.7477,-73.9485
+9,Bayside,Queens,40.7614,-73.8297
+10,Bath Beach,Brooklyn,40.5795,-74.0021
+11,Battery Park,Manhattan,40.7033,-74.0170
+12,Battery Park City,Manhattan,40.7133,-74.0149
+13,Bay Ridge,Brooklyn,40.6312,-74.0211
+14,Bayside,Queens,40.7614,-73.8297
+15,Bedford,Brooklyn,40.6895,-73.9580
+16,Bedfordstuy,Brooklyn,40.6895,-73.9580
+17,Bellerose,Queens,40.7282,-73.7261
+18,Belmont,Bronx,40.8519,-73.8628
+19,Bensonhurst,Brooklyn,40.5795,-74.0021
+20,Berkley Heights,Bronx,40.8246,-73.8297
+21,Boerum Hill,Brooklyn,40.6895,-73.9866
+22,Borough Hall,Brooklyn,40.6895,-73.9866
+23,Bow Wow Meow Park,Manhattan,40.7489,-73.9680
+24,Bowery,Manhattan,40.7185,-73.9961
+25,Brooklyn Heights,Brooklyn,40.6963,-73.9911
+26,Brooklyn Navy Yard,Brooklyn,40.7051,-73.9747
+27,Brownsville,Brooklyn,40.6312,-73.9232
+28,Briarwood,Queens,40.7190,-73.8297
+29,Brighton Beach,Brooklyn,40.5750,-73.9616
+30,Broad Channel,Queens,40.6146,-73.8297
+31,Bronx Park,Bronx,40.8519,-73.8628
+32,Bronxdale,Bronx,40.8246,-73.8297
+33,Brooklyn Green,Brooklyn,40.6895,-73.9580
+34,Brookside,Brooklyn,40.6312,-74.0211
+35,Briarwood,Queens,40.7190,-73.8297
+36,Burlesque,Manhattan,40.7489,-73.9680
+37,Bushwick,Brooklyn,40.6895,-73.9232
+38,Cad Scholl Park,Bronx,40.8519,-73.8628
+39,Cadman Plaza,Brooklyn,40.6895,-73.9866
+40,Calvert Vaux Park,Brooklyn,40.6895,-73.9232
+41,Canals Point,Manhattan,40.7185,-73.9961
+42,Canarsie,Brooklyn,40.6595,-73.8850
+43,Canarise Park,Brooklyn,40.6595,-73.8850
+44,Candy Store,Bronx,40.8519,-73.8628
+45,Cantine,Manhattan,40.7489,-73.9680
+46,Canyon of Heroes,Manhattan,40.7033,-74.0170
+47,Carmine Street,Manhattan,40.7282,-73.9961
+48,Carnegie Hill,Manhattan,40.7833,-73.9627
+49,Carranza,Manhattan,40.7489,-73.9680
+50,Carroll Gardens,Brooklyn,40.6604,-74.0021
+51,Casanova,Bronx,40.8519,-73.8628
+52,Castle Hill,Bronx,40.8246,-73.8297
+53,Catskill,Manhattan,40.7489,-73.9680
+54,Cedar Grove,New Jersey,40.7282,-73.9776
+55,Central Harlem,Manhattan,40.8230,-73.9356
+56,Central Harlem North,Manhattan,40.8376,-73.9480
+57,Central Park,Manhattan,40.7829,-73.9654
+58,Central Park South,Manhattan,40.7680,-73.9776
+59,Cesarean Hills,Bronx,40.8246,-73.8297
+60,Chambers,Manhattan,40.7120,-74.0064
+61,Chambers,Manhattan,40.7120,-74.0064
+62,Champlain,Manhattan,40.8230,-73.9356
+63,Chappaqua,Westchester,40.8125,-73.8058
+64,Chelsea,Manhattan,40.7505,-74.0020
+65,Chelsea West,Manhattan,40.7505,-74.0020
+66,Chevy Chase,Maryland,40.7282,-73.9776
+67,Chinatown,Manhattan,40.7155,-73.9969
+68,Chinatown East,Manhattan,40.7155,-73.9969
+69,Chinatown South,Manhattan,40.7155,-73.9969
+70,Chinatown West,Manhattan,40.7155,-73.9969
+71,City Hall,Manhattan,40.7127,-74.0059
+72,Civic Center,Manhattan,40.7127,-74.0059
+73,Clason Point,Bronx,40.8246,-73.8297
+74,Clay Ave,Bronx,40.8519,-73.8628
+75,Clearbrook,Queens,40.7190,-73.8297
+76,Cleburne,Bronx,40.8246,-73.8297
+77,Clifton,Bronx,40.8246,-73.8297
+78,Cliffside Park,New Jersey,40.8230,-73.9356
+79,Climax,Queens,40.7190,-73.8297
+80,Cloisters,Manhattan,40.8650,-73.9314
+81,Cohoes,New York,40.7282,-73.9776
+82,Coleman,Bronx,40.8519,-73.8628
+83,Coler Mountain,Bronx,40.8519,-73.8628
+84,Coliseum,Manhattan,40.7680,-73.9776
+85,Collinwood,Bronx,40.8519,-73.8628
+86,Colony,Queens,40.7190,-73.8297
+87,Columbian Heights,Brooklyn,40.6895,-73.9580
+88,Columbus Park,Manhattan,40.7155,-73.9969
+89,Colwell,Queens,40.7190,-73.8297
+90,Commerce,Manhattan,40.7282,-73.9961
+91,Commercial Slip,Manhattan,40.7033,-74.0170
+92,Commercial Waterfront,Manhattan,40.7033,-74.0170
+93,Comstock,Bronx,40.8519,-73.8628
+94,Concourse,Bronx,40.8246,-73.8297
+95,Concourse East,Bronx,40.8246,-73.8297
+96,Concourse Village,Bronx,40.8246,-73.8297
+97,Concourse West,Bronx,40.8246,-73.8297
+98,Coney Island,Brooklyn,40.5750,-73.9616
+99,Congress,Brooklyn,40.6895,-73.9580
+100,Connecticut,Connecticut,40.7282,-73.9776
+101,Cooper Square,Manhattan,40.7282,-73.9776
+102,Copacabana,Manhattan,40.7489,-73.9680
+103,Corbette,Manhattan,40.7489,-73.9680
+104,Core,Manhattan,40.7033,-74.0170
+105,Corona,Queens,40.7477,-73.8627
+106,Corona North,Queens,40.7477,-73.8627
+107,Corona Queens,Queens,40.7477,-73.8627
+108,Corona South,Queens,40.7477,-73.8627
+109,Corson,Manhattan,40.7489,-73.9680
+110,Cortland,Manhattan,40.7120,-74.0064
+111,Cortlandt,Manhattan,40.7120,-74.0064
+112,Corwin,Manhattan,40.7489,-73.9680
+113,Cote d'Or,Manhattan,40.7489,-73.9680
+114,Cotton,Manhattan,40.7282,-73.9961
+115,Cottage Grove,Bronx,40.8519,-73.8628
+116,Cottages,Brooklyn,40.6895,-73.9580
+117,Court Square,Queens,40.7477,-73.9485
+118,Cove,Bronx,40.8519,-73.8628
+119,Cowell,Queens,40.7190,-73.8297
+120,Coxsakis,Bronx,40.8519,-73.8628
+121,Cradock,Manhattan,40.7489,-73.9680
+122,Cradle Hill,Bronx,40.8519,-73.8628
+123,Craig,Manhattan,40.7489,-73.9680
+124,Crane,Brooklyn,40.6895,-73.9232
+125,Crater Lake,Manhattan,40.7489,-73.9680
+126,Crawford,Manhattan,40.7489,-73.9680
+127,Creighton,Bronx,40.8519,-73.8628
+128,Crescent,Bronx,40.8519,-73.8628
+129,Crest,Manhattan,40.7489,-73.9680
+130,Crestmoor,Manhattan,40.7489,-73.9680
+131,Crestwood,Bronx,40.8519,-73.8628
+132,Creston,Manhattan,40.7489,-73.9680
+133,Creston Hill,Manhattan,40.7489,-73.9680
+134,Creston Park,Manhattan,40.7489,-73.9680
+135,Creston South,Manhattan,40.7489,-73.9680
+136,Crisp,Manhattan,40.7489,-73.9680
+137,Crispus Attucks,Manhattan,40.7489,-73.9680
+138,Crockett,Manhattan,40.7489,-73.9680
+139,Croll,Manhattan,40.7489,-73.9680
+140,Croly,Manhattan,40.7489,-73.9680
+141,Croman,Manhattan,40.7489,-73.9680
+142,Crone,Manhattan,40.7489,-73.9680
+143,Cronin,Manhattan,40.7489,-73.9680
+144,Crony,Manhattan,40.7489,-73.9680
+145,Crook,Manhattan,40.7489,-73.9680
+146,Crooker,Manhattan,40.7489,-73.9680
+147,Crookham,Manhattan,40.7489,-73.9680
+148,Crookshanks,Manhattan,40.7489,-73.9680
+149,Crooky,Manhattan,40.7489,-73.9680
+150,Crookyn,Manhattan,40.7489,-73.9680
+151,East Midtown,Manhattan,40.7505,-73.9776
+152,East Harlem,Manhattan,40.7979,-73.9480
+153,East Harlem North,Manhattan,40.8230,-73.9356
+154,East New York,Brooklyn,40.6312,-73.9232
+155,East New York Airport,Brooklyn,40.6312,-73.9232
+156,East Side,Manhattan,40.7833,-73.9627
+157,Eastchester,Bronx,40.8519,-73.8628
+158,Easter Hill,Manhattan,40.7489,-73.9680
+159,Eastern,Manhattan,40.7489,-73.9680
+160,Eastfield,Bronx,40.8519,-73.8628
+161,Eastgate,Manhattan,40.7489,-73.9680
+162,Eastman,Manhattan,40.7489,-73.9680
+163,Easton,Manhattan,40.7489,-73.9680
+164,Eaton,Manhattan,40.7489,-73.9680
+165,Eaves,Manhattan,40.7489,-73.9680
+166,Ebenezer,Manhattan,40.7489,-73.9680
+167,Ebony,Manhattan,40.7489,-73.9680
+168,Ebur,Manhattan,40.7489,-73.9680
+169,Ecbert,Manhattan,40.7489,-73.9680
+170,Echo,Manhattan,40.7489,-73.9680
+171,Echopark,Manhattan,40.7489,-73.9680
+172,Economuseum,Manhattan,40.7489,-73.9680
+173,Economy,Manhattan,40.7489,-73.9680
+174,Ecru,Manhattan,40.7489,-73.9680
+175,Edgebrook,Bronx,40.8519,-73.8628
+176,Edgecombe,Manhattan,40.8230,-73.9356
+177,Edgecombe Road,Manhattan,40.8230,-73.9356
+178,Edgecombe South,Manhattan,40.8230,-73.9356
+179,Edgemont,Westchester,40.8519,-73.8628
+180,Edgemoor,Brooklyn,40.6595,-73.8850
+181,Edgemore,Queens,40.7190,-73.8297
+182,Edgewood,Bronx,40.8519,-73.8628
+183,Edgeworth,Bronx,40.8519,-73.8628
+184,Edgewood Avenue,Bronx,40.8519,-73.8628
+185,Edgewood Terrace,Bronx,40.8519,-73.8628
+186,Edison,Manhattan,40.7489,-73.9680
+187,Edith,Manhattan,40.7489,-73.9680
+188,Edmonds,Manhattan,40.7489,-73.9680
+189,Edmond,Manhattan,40.7489,-73.9680
+190,Edmonds Park,Manhattan,40.7489,-73.9680
+191,Edmonton,Manhattan,40.7489,-73.9680
+192,Edmundston,Manhattan,40.7489,-73.9680
+193,Edna,Manhattan,40.7489,-73.9680
+194,Edith,Manhattan,40.7489,-73.9680
+195,Edsall,Manhattan,40.7489,-73.9680
+196,Edward,Manhattan,40.7489,-73.9680
+197,Edwards,Manhattan,40.7489,-73.9680
+198,Eels,Manhattan,40.7489,-73.9680
+199,Egleston,Manhattan,40.7489,-73.9680
+200,Egmont,Manhattan,40.7489,-73.9680
+201,Egrets,Manhattan,40.7489,-73.9680
+202,Egypt,Manhattan,40.7489,-73.9680
+203,Eighteenth,Manhattan,40.7489,-73.9680
+204,Eighth,Manhattan,40.7489,-73.9680
+205,Eighty Eight,Manhattan,40.7489,-73.9680
+206,Eightieth,Manhattan,40.7489,-73.9680
+207,Eighty First,Manhattan,40.7489,-73.9680
+208,Eightieth Street,Manhattan,40.7489,-73.9680
+209,Eightieth Street West,Manhattan,40.7489,-73.9680
+210,Eightieth,Manhattan,40.7489,-73.9680
+211,Eightieth Street East,Manhattan,40.7489,-73.9680
+212,Eightieth Street North,Manhattan,40.7489,-73.9680
+213,Eightieth Street South,Manhattan,40.7489,-73.9680
+214,Eightieth Avenue,Manhattan,40.7489,-73.9680
+215,Eightieth Boulevard,Manhattan,40.7489,-73.9680
+216,Eightieth Drive,Manhattan,40.7489,-73.9680
+217,Eightieth Lane,Manhattan,40.7489,-73.9680
+218,Eightieth Place,Manhattan,40.7489,-73.9680
+219,Eightieth Road,Manhattan,40.7489,-73.9680
+220,Eightieth Street West,Manhattan,40.7489,-73.9680
+221,Eightieth Terrace,Manhattan,40.7489,-73.9680
+222,Eightieth Way,Manhattan,40.7489,-73.9680
+223,Eightieth Street,Manhattan,40.7489,-73.9680
+224,Eighty Ninth,Manhattan,40.7489,-73.9680
+225,Eighty Second,Manhattan,40.7489,-73.9680
+226,Eighty Seventh,Manhattan,40.7489,-73.9680
+227,Eighty Sixth,Manhattan,40.7489,-73.9680
+228,Eighty Fifth,Manhattan,40.7489,-73.9680
+229,Eighty Fourth,Manhattan,40.7489,-73.9680
+230,Eighty Third,Manhattan,40.7489,-73.9680
+231,Eighty Eighth,Manhattan,40.7489,-73.9680
+232,Eighty Seventh Street,Manhattan,40.7489,-73.9680
+233,Eighty Sixth Street,Manhattan,40.7489,-73.9680
+234,Eighty Fifth Street,Manhattan,40.7489,-73.9680
+235,Eighty Fourth Street,Manhattan,40.7489,-73.9680
+236,Eighty Third Street,Manhattan,40.7489,-73.9680
+237,Eighty Eighth Street,Manhattan,40.7489,-73.9680
+238,Eighty Ninth Street,Manhattan,40.7489,-73.9680
+239,Yorkville East,Manhattan,40.7721,-73.9485
+240,Yorkville West,Manhattan,40.7721,-73.9627
+241,Zebra,Manhattan,40.7489,-73.9680
+242,Zebu,Manhattan,40.7489,-73.9680
+243,Zechariah,Manhattan,40.7489,-73.9680
+244,Zechariah Street,Manhattan,40.7489,-73.9680
+245,Zecharia Park,Manhattan,40.7489,-73.9680
+246,Zedia,Manhattan,40.7489,-73.9680
+247,Zediah,Manhattan,40.7489,-73.9680
+248,Zeeland,Manhattan,40.7489,-73.9680
+249,Zeeman,Manhattan,40.7489,-73.9680
+250,Zeenen,Manhattan,40.7489,-73.9680
+251,Zees,Manhattan,40.7489,-73.9680
+252,Zeiba,Manhattan,40.7489,-73.9680
+253,Zeitgeist,Manhattan,40.7489,-73.9680
+254,Zellmer,Manhattan,40.7489,-73.9680
+255,Zelma,Manhattan,40.7489,-73.9680
+256,Zeltner,Manhattan,40.7489,-73.9680
+257,Zelzah,Manhattan,40.7489,-73.9680
+258,Zena,Manhattan,40.7489,-73.9680
+259,Zenana,Manhattan,40.7489,-73.9680
+260,Zenith,Manhattan,40.7489,-73.9680
+261,Zenobia,Manhattan,40.7489,-73.9680
+262,Zeolite,Manhattan,40.7489,-73.9680
+263,Zephyr,Manhattan,40.7489,-73.9680

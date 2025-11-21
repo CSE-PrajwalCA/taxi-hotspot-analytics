@@ -1,0 +1,4592 @@
+[
+  {
+    "count": 115,
+    "avg_fare": 11.604347826086956,
+    "avg_distance": 3.0017391304347827,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.0,
+    "avg_distance": 1.96,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 14
+  },
+  {
+    "count": 13,
+    "avg_fare": 54.08846153846154,
+    "avg_distance": 4.131538461538462,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 17
+  },
+  {
+    "count": 15,
+    "avg_fare": 10.9,
+    "avg_distance": 2.796666666666667,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 11
+  },
+  {
+    "count": 1,
+    "avg_fare": 10.5,
+    "avg_distance": 2.87,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 6
+  },
+  {
+    "count": 97,
+    "avg_fare": 13.61340206185567,
+    "avg_distance": 3.6111340206185565,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 7
+  },
+  {
+    "count": 988,
+    "avg_fare": 12.609817813765183,
+    "avg_distance": 3.133259109311741,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 2
+  },
+  {
+    "count": 202,
+    "avg_fare": 14.383663366336634,
+    "avg_distance": 3.4232178217821785,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 1
+  },
+  {
+    "count": 1,
+    "avg_fare": 24.06,
+    "avg_distance": 8.28,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 4
+  },
+  {
+    "count": 11,
+    "avg_fare": 10.045454545454545,
+    "avg_distance": 2.3836363636363633,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 19
+  },
+  {
+    "count": 349,
+    "avg_fare": 10.497134670487107,
+    "avg_distance": 2.5154727793696274,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 3
+  },
+  {
+    "count": 105,
+    "avg_fare": 13.42942857142857,
+    "avg_distance": 3.6503809523809525,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 10
+  },
+  {
+    "count": 106,
+    "avg_fare": 10.131981132075472,
+    "avg_distance": 2.5860377358490565,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 10
+  },
+  {
+    "count": 3,
+    "avg_fare": 13.666666666666666,
+    "avg_distance": 3.823333333333333,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 10
+  },
+  {
+    "count": 629,
+    "avg_fare": 13.084276629570748,
+    "avg_distance": 2.7962798092209855,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 0
+  },
+  {
+    "count": 578,
+    "avg_fare": 13.652249134948097,
+    "avg_distance": 3.3697750865051903,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 2
+  },
+  {
+    "count": 132,
+    "avg_fare": 9.253787878787879,
+    "avg_distance": 2.279848484848485,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 10
+  },
+  {
+    "count": 35,
+    "avg_fare": 15.413428571428572,
+    "avg_distance": 4.662,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 27.5,
+    "avg_distance": 9.7,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 5
+  },
+  {
+    "count": 5,
+    "avg_fare": 28.4,
+    "avg_distance": 9.17,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 6
+  },
+  {
+    "count": 57,
+    "avg_fare": 16.605263157894736,
+    "avg_distance": 4.734912280701754,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 1
+  },
+  {
+    "count": 3,
+    "avg_fare": 11.833333333333334,
+    "avg_distance": 2.8000000000000003,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 14
+  },
+  {
+    "count": 2,
+    "avg_fare": 20.0,
+    "avg_distance": 5.625,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 16
+  },
+  {
+    "count": 1,
+    "avg_fare": 5.0,
+    "avg_distance": 1.0,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 14
+  },
+  {
+    "count": 3,
+    "avg_fare": 7.833333333333333,
+    "avg_distance": 1.2666666666666666,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 23
+  },
+  {
+    "count": 122,
+    "avg_fare": 11.665737704918033,
+    "avg_distance": 3.0653278688524592,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 9
+  },
+  {
+    "count": 339,
+    "avg_fare": 11.625368731563421,
+    "avg_distance": 2.7588790560471974,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 1
+  },
+  {
+    "count": 4,
+    "avg_fare": 29.125,
+    "avg_distance": 6.795,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 6
+  },
+  {
+    "count": 2,
+    "avg_fare": 13.0,
+    "avg_distance": 2.785,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 8
+  },
+  {
+    "count": 18,
+    "avg_fare": 11.13888888888889,
+    "avg_distance": 2.53,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 4
+  },
+  {
+    "count": 2,
+    "avg_fare": 15.0,
+    "avg_distance": 4.24,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 9
+  },
+  {
+    "count": 3,
+    "avg_fare": 23.99666666666667,
+    "avg_distance": 8.46,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 7
+  },
+  {
+    "count": 325,
+    "avg_fare": 10.489230769230769,
+    "avg_distance": 2.0996615384615382,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 0
+  },
+  {
+    "count": 1,
+    "avg_fare": 13.0,
+    "avg_distance": 3.0,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 15
+  },
+  {
+    "count": 2,
+    "avg_fare": 15.75,
+    "avg_distance": 4.705,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 20
+  },
+  {
+    "count": 53,
+    "avg_fare": 14.556603773584905,
+    "avg_distance": 4.177169811320755,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 7
+  },
+  {
+    "count": 4,
+    "avg_fare": 32.875,
+    "avg_distance": 7.1899999999999995,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 1
+  },
+  {
+    "count": 8,
+    "avg_fare": 25.875,
+    "avg_distance": 8.5625,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 5
+  },
+  {
+    "count": 136,
+    "avg_fare": 13.514705882352942,
+    "avg_distance": 3.7837500000000004,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 8
+  },
+  {
+    "count": 5,
+    "avg_fare": 15.3,
+    "avg_distance": 4.742,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 7
+  },
+  {
+    "count": 3,
+    "avg_fare": 16.166666666666668,
+    "avg_distance": 3.1666666666666665,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 8
+  },
+  {
+    "count": 1,
+    "avg_fare": 20.0,
+    "avg_distance": 6.5,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 20
+  },
+  {
+    "count": 86,
+    "avg_fare": 9.867441860465117,
+    "avg_distance": 2.402093023255814,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 11
+  },
+  {
+    "count": 1,
+    "avg_fare": 63.0,
+    "avg_distance": 22.61,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 3.5,
+    "avg_distance": 0.46,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 14
+  },
+  {
+    "count": 43,
+    "avg_fare": 12.435348837209302,
+    "avg_distance": 3.396046511627907,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 11
+  },
+  {
+    "count": 46,
+    "avg_fare": 19.0,
+    "avg_distance": 4.821521739130435,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 2
+  },
+  {
+    "count": 27,
+    "avg_fare": 12.390370370370372,
+    "avg_distance": 3.542962962962963,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 6
+  },
+  {
+    "count": 9,
+    "avg_fare": 13.166666666666666,
+    "avg_distance": 3.321111111111111,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 11
+  },
+  {
+    "count": 5,
+    "avg_fare": 10.2,
+    "avg_distance": 2.1719999999999997,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 19
+  },
+  {
+    "count": 112,
+    "avg_fare": 13.602678571428571,
+    "avg_distance": 2.8876785714285718,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 0
+  },
+  {
+    "count": 16,
+    "avg_fare": 13.46875,
+    "avg_distance": 3.82375,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 8
+  },
+  {
+    "count": 7,
+    "avg_fare": 11.071428571428571,
+    "avg_distance": 3.3457142857142856,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 9
+  },
+  {
+    "count": 51,
+    "avg_fare": 15.470588235294118,
+    "avg_distance": 4.325686274509804,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.0,
+    "avg_distance": 1.58,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 15
+  },
+  {
+    "count": 11,
+    "avg_fare": 22.168181818181818,
+    "avg_distance": 6.530909090909091,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 7
+  },
+  {
+    "count": 1898,
+    "avg_fare": 18.135021074815594,
+    "avg_distance": 5.463324552160168,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 8
+  },
+  {
+    "count": 1,
+    "avg_fare": 2.5,
+    "avg_distance": 0.0,
+    "grid_x": -7397,
+    "grid_y": 4057,
+    "grid_key": "-7397_4057",
+    "hour": 12
+  },
+  {
+    "count": 522,
+    "avg_fare": 12.274904214559387,
+    "avg_distance": 2.9830459770114945,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 3
+  },
+  {
+    "count": 14,
+    "avg_fare": 13.321428571428571,
+    "avg_distance": 3.8721428571428573,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 8
+  },
+  {
+    "count": 190,
+    "avg_fare": 18.470000000000002,
+    "avg_distance": 2.7989473684210524,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 3
+  },
+  {
+    "count": 162,
+    "avg_fare": 13.123456790123457,
+    "avg_distance": 3.650308641975309,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 6
+  },
+  {
+    "count": 34,
+    "avg_fare": 15.955882352941176,
+    "avg_distance": 4.257352941176471,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 1
+  },
+  {
+    "count": 160,
+    "avg_fare": 11.947750000000001,
+    "avg_distance": 3.3099375,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 6
+  },
+  {
+    "count": 4,
+    "avg_fare": 100.625,
+    "avg_distance": 4.825,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 12
+  },
+  {
+    "count": 78,
+    "avg_fare": 14.378205128205128,
+    "avg_distance": 4.096410256410256,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 4
+  },
+  {
+    "count": 35,
+    "avg_fare": 14.557142857142857,
+    "avg_distance": 3.410285714285714,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 5
+  },
+  {
+    "count": 110,
+    "avg_fare": 11.972727272727273,
+    "avg_distance": 3.262,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 8
+  },
+  {
+    "count": 110,
+    "avg_fare": 9.486363636363636,
+    "avg_distance": 2.1454545454545455,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 13
+  },
+  {
+    "count": 39,
+    "avg_fare": 13.474358974358974,
+    "avg_distance": 3.81025641025641,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 5
+  },
+  {
+    "count": 7,
+    "avg_fare": 14.785714285714286,
+    "avg_distance": 3.974285714285714,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 10
+  },
+  {
+    "count": 144,
+    "avg_fare": 17.546319444444446,
+    "avg_distance": 2.8730555555555553,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 12
+  },
+  {
+    "count": 71,
+    "avg_fare": 15.816901408450704,
+    "avg_distance": 4.415492957746479,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 5
+  },
+  {
+    "count": 63,
+    "avg_fare": 7.285714285714286,
+    "avg_distance": 1.5220634920634921,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 11
+  },
+  {
+    "count": 3,
+    "avg_fare": 17.833333333333332,
+    "avg_distance": 5.026666666666666,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 6
+  },
+  {
+    "count": 10,
+    "avg_fare": 15.5,
+    "avg_distance": 4.266,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 13
+  },
+  {
+    "count": 21,
+    "avg_fare": 16.30952380952381,
+    "avg_distance": 4.279999999999999,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 0
+  },
+  {
+    "count": 184,
+    "avg_fare": 13.638152173913044,
+    "avg_distance": 3.543804347826087,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 5
+  },
+  {
+    "count": 1,
+    "avg_fare": 5.0,
+    "avg_distance": 0.6,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 13
+  },
+  {
+    "count": 8549,
+    "avg_fare": 12.866335243888175,
+    "avg_distance": 2.9829640893671776,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 0
+  },
+  {
+    "count": 1,
+    "avg_fare": 18.0,
+    "avg_distance": 5.26,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 20
+  },
+  {
+    "count": 7,
+    "avg_fare": 14.5,
+    "avg_distance": 3.934285714285714,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 10
+  },
+  {
+    "count": 45,
+    "avg_fare": 12.042444444444444,
+    "avg_distance": 3.371111111111111,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 8
+  },
+  {
+    "count": 4,
+    "avg_fare": 26.625,
+    "avg_distance": 7.9175,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 10
+  },
+  {
+    "count": 303,
+    "avg_fare": 15.556138613861387,
+    "avg_distance": 2.882079207920792,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 1
+  },
+  {
+    "count": 4,
+    "avg_fare": 8.0,
+    "avg_distance": 2.0125,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 2
+  },
+  {
+    "count": 4,
+    "avg_fare": 30.625,
+    "avg_distance": 16.9,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 10
+  },
+  {
+    "count": 35,
+    "avg_fare": 12.762857142857143,
+    "avg_distance": 3.4019999999999997,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 9
+  },
+  {
+    "count": 2,
+    "avg_fare": 14.75,
+    "avg_distance": 4.465,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 17
+  },
+  {
+    "count": 2,
+    "avg_fare": 23.64,
+    "avg_distance": 7.105,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 5
+  },
+  {
+    "count": 55,
+    "avg_fare": 12.818181818181818,
+    "avg_distance": 3.493272727272727,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 6
+  },
+  {
+    "count": 1661,
+    "avg_fare": 18.86587597832631,
+    "avg_distance": 5.451444912703191,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 6
+  },
+  {
+    "count": 4,
+    "avg_fare": 11.875,
+    "avg_distance": 3.005,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 17
+  },
+  {
+    "count": 241,
+    "avg_fare": 16.053941908713693,
+    "avg_distance": 4.274647302904564,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 1
+  },
+  {
+    "count": 8211,
+    "avg_fare": 12.919713798562904,
+    "avg_distance": 3.162974059188893,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 2
+  },
+  {
+    "count": 4,
+    "avg_fare": 16.875,
+    "avg_distance": 2.1875,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 19
+  },
+  {
+    "count": 251,
+    "avg_fare": 14.105418326693227,
+    "avg_distance": 2.456135458167331,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 0
+  },
+  {
+    "count": 1,
+    "avg_fare": 7.5,
+    "avg_distance": 1.42,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 17
+  },
+  {
+    "count": 11,
+    "avg_fare": 13.615454545454547,
+    "avg_distance": 3.978181818181818,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 4
+  },
+  {
+    "count": 26,
+    "avg_fare": 17.48076923076923,
+    "avg_distance": 5.054615384615385,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 32.5,
+    "avg_distance": 11.48,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 13
+  },
+  {
+    "count": 52,
+    "avg_fare": 12.278846153846153,
+    "avg_distance": 3.3375000000000004,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.5,
+    "avg_distance": 2.08,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 21
+  },
+  {
+    "count": 5010,
+    "avg_fare": 13.360423153692615,
+    "avg_distance": 3.611874251497006,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 11
+  },
+  {
+    "count": 12,
+    "avg_fare": 14.041666666666666,
+    "avg_distance": 3.3775,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 0
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.0,
+    "avg_distance": 1.36,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 15
+  },
+  {
+    "count": 61,
+    "avg_fare": 14.672131147540984,
+    "avg_distance": 2.9375409836065574,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 11.0,
+    "avg_distance": 2.08,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 6
+  },
+  {
+    "count": 3,
+    "avg_fare": 8.166666666666666,
+    "avg_distance": 1.5933333333333335,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 20
+  },
+  {
+    "count": 4,
+    "avg_fare": 10.875,
+    "avg_distance": 2.525,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 19
+  },
+  {
+    "count": 136,
+    "avg_fare": 15.606617647058824,
+    "avg_distance": 4.150882352941176,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 0
+  },
+  {
+    "count": 3,
+    "avg_fare": 20.666666666666668,
+    "avg_distance": 5.776666666666666,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 23
+  },
+  {
+    "count": 21,
+    "avg_fare": 14.023809523809524,
+    "avg_distance": 3.0890476190476193,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 14
+  },
+  {
+    "count": 51,
+    "avg_fare": 14.14313725490196,
+    "avg_distance": 3.9376470588235293,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 8
+  },
+  {
+    "count": 27,
+    "avg_fare": 10.722222222222221,
+    "avg_distance": 2.716296296296296,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 4
+  },
+  {
+    "count": 4,
+    "avg_fare": 11.75,
+    "avg_distance": 3.11,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 0
+  },
+  {
+    "count": 152,
+    "avg_fare": 14.009868421052632,
+    "avg_distance": 3.801315789473684,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 10
+  },
+  {
+    "count": 5,
+    "avg_fare": 17.8,
+    "avg_distance": 5.286,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 11
+  },
+  {
+    "count": 125,
+    "avg_fare": 12.3784,
+    "avg_distance": 3.13048,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 2
+  },
+  {
+    "count": 15,
+    "avg_fare": 15.166666666666666,
+    "avg_distance": 4.226666666666667,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 3
+  },
+  {
+    "count": 656,
+    "avg_fare": 13.773643292682927,
+    "avg_distance": 3.1189176829268295,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 1
+  },
+  {
+    "count": 178,
+    "avg_fare": 16.165730337078653,
+    "avg_distance": 4.575224719101124,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 2
+  },
+  {
+    "count": 41,
+    "avg_fare": 14.292682926829269,
+    "avg_distance": 4.191219512195122,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 8
+  },
+  {
+    "count": 38,
+    "avg_fare": 14.794210526315789,
+    "avg_distance": 4.266315789473684,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 10
+  },
+  {
+    "count": 2,
+    "avg_fare": 14.25,
+    "avg_distance": 3.11,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 23
+  },
+  {
+    "count": 2,
+    "avg_fare": 14.25,
+    "avg_distance": 4.07,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 3
+  },
+  {
+    "count": 102,
+    "avg_fare": 13.519607843137255,
+    "avg_distance": 3.804019607843137,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 8
+  },
+  {
+    "count": 2,
+    "avg_fare": 20.25,
+    "avg_distance": 6.61,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 50.5,
+    "avg_distance": 18.03,
+    "grid_x": -7393,
+    "grid_y": 4063,
+    "grid_key": "-7393_4063",
+    "hour": 11
+  },
+  {
+    "count": 56,
+    "avg_fare": 16.196428571428573,
+    "avg_distance": 4.177678571428571,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 1
+  },
+  {
+    "count": 1,
+    "avg_fare": 85.0,
+    "avg_distance": 0.0,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 13
+  },
+  {
+    "count": 411,
+    "avg_fare": 12.498783454987835,
+    "avg_distance": 2.80978102189781,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 1
+  },
+  {
+    "count": 82,
+    "avg_fare": 9.109756097560975,
+    "avg_distance": 2.1528048780487805,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 9
+  },
+  {
+    "count": 3,
+    "avg_fare": 16.333333333333332,
+    "avg_distance": 4.243333333333333,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 9
+  },
+  {
+    "count": 77,
+    "avg_fare": 9.928571428571429,
+    "avg_distance": 2.2209090909090907,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 13
+  },
+  {
+    "count": 33,
+    "avg_fare": 18.348484848484848,
+    "avg_distance": 5.491212121212121,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 6
+  },
+  {
+    "count": 266,
+    "avg_fare": 11.80451127819549,
+    "avg_distance": 3.165375939849624,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 4
+  },
+  {
+    "count": 11,
+    "avg_fare": 30.644545454545458,
+    "avg_distance": 7.290909090909091,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 19.0,
+    "avg_distance": 5.6,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 14
+  },
+  {
+    "count": 536,
+    "avg_fare": 13.091417910447761,
+    "avg_distance": 3.2700932835820895,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 3
+  },
+  {
+    "count": 13,
+    "avg_fare": 17.5,
+    "avg_distance": 4.791538461538462,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 1
+  },
+  {
+    "count": 1,
+    "avg_fare": 30.0,
+    "avg_distance": 9.33,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 21
+  },
+  {
+    "count": 1,
+    "avg_fare": 19.0,
+    "avg_distance": 6.4,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 52.0,
+    "avg_distance": 19.04,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 13.0,
+    "avg_distance": 2.69,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 11
+  },
+  {
+    "count": 2,
+    "avg_fare": 25.0,
+    "avg_distance": 8.45,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 8
+  },
+  {
+    "count": 79,
+    "avg_fare": 13.284810126582279,
+    "avg_distance": 3.8682278481012653,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 6.5,
+    "avg_distance": 1.61,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 20
+  },
+  {
+    "count": 60,
+    "avg_fare": 14.729999999999999,
+    "avg_distance": 3.9728333333333334,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 2
+  },
+  {
+    "count": 111,
+    "avg_fare": 9.252252252252251,
+    "avg_distance": 2.3343243243243244,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 10
+  },
+  {
+    "count": 69,
+    "avg_fare": 15.601449275362318,
+    "avg_distance": 4.608115942028985,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 11
+  },
+  {
+    "count": 2,
+    "avg_fare": 40.5,
+    "avg_distance": 6.800000000000001,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 11
+  },
+  {
+    "count": 34,
+    "avg_fare": 12.176470588235293,
+    "avg_distance": 2.773529411764706,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 2
+  },
+  {
+    "count": 38,
+    "avg_fare": 12.723684210526315,
+    "avg_distance": 2.856578947368421,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 5
+  },
+  {
+    "count": 805,
+    "avg_fare": 11.924223602484473,
+    "avg_distance": 2.736310559006211,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 0
+  },
+  {
+    "count": 57,
+    "avg_fare": 17.789473684210527,
+    "avg_distance": 5.23298245614035,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 6
+  },
+  {
+    "count": 6,
+    "avg_fare": 16.916666666666668,
+    "avg_distance": 5.128333333333333,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 0
+  },
+  {
+    "count": 3,
+    "avg_fare": 9.833333333333334,
+    "avg_distance": 1.8,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 2
+  },
+  {
+    "count": 3,
+    "avg_fare": 7.333333333333333,
+    "avg_distance": 1.6466666666666665,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 5
+  },
+  {
+    "count": 1826,
+    "avg_fare": 17.384123767798467,
+    "avg_distance": 5.07973713033954,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 7
+  },
+  {
+    "count": 1971,
+    "avg_fare": 16.296220192795534,
+    "avg_distance": 4.622156265854896,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 5
+  },
+  {
+    "count": 26,
+    "avg_fare": 21.46153846153846,
+    "avg_distance": 6.623076923076923,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 5
+  },
+  {
+    "count": 28,
+    "avg_fare": 10.571428571428571,
+    "avg_distance": 2.8200000000000003,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 7
+  },
+  {
+    "count": 2,
+    "avg_fare": 17.25,
+    "avg_distance": 5.26,
+    "grid_x": -7397,
+    "grid_y": 4057,
+    "grid_key": "-7397_4057",
+    "hour": 1
+  },
+  {
+    "count": 51,
+    "avg_fare": 17.647058823529413,
+    "avg_distance": 4.874117647058823,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 14.0,
+    "avg_distance": 1.31,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 17
+  },
+  {
+    "count": 2,
+    "avg_fare": 14.0,
+    "avg_distance": 3.395,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 4
+  },
+  {
+    "count": 3,
+    "avg_fare": 5.5,
+    "avg_distance": 0.7766666666666667,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 0
+  },
+  {
+    "count": 187,
+    "avg_fare": 11.046737967914437,
+    "avg_distance": 2.89903743315508,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 10
+  },
+  {
+    "count": 4,
+    "avg_fare": 17.25,
+    "avg_distance": 4.682499999999999,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 5
+  },
+  {
+    "count": 31,
+    "avg_fare": 12.919354838709678,
+    "avg_distance": 3.589354838709678,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 8
+  },
+  {
+    "count": 13,
+    "avg_fare": 11.73076923076923,
+    "avg_distance": 2.886923076923077,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 12
+  },
+  {
+    "count": 25,
+    "avg_fare": 14.82,
+    "avg_distance": 3.8360000000000003,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 2
+  },
+  {
+    "count": 21,
+    "avg_fare": 17.833333333333332,
+    "avg_distance": 5.245238095238095,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 3
+  },
+  {
+    "count": 82,
+    "avg_fare": 11.298780487804878,
+    "avg_distance": 2.675,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 4
+  },
+  {
+    "count": 9,
+    "avg_fare": 23.63888888888889,
+    "avg_distance": 7.665555555555555,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 12
+  },
+  {
+    "count": 931,
+    "avg_fare": 13.468313641245972,
+    "avg_distance": 3.2211170784103116,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 1
+  },
+  {
+    "count": 255,
+    "avg_fare": 9.868627450980393,
+    "avg_distance": 2.3888627450980393,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 12
+  },
+  {
+    "count": 63,
+    "avg_fare": 10.063492063492063,
+    "avg_distance": 2.508888888888889,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 3
+  },
+  {
+    "count": 8,
+    "avg_fare": 10.375,
+    "avg_distance": 2.4899999999999998,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 5
+  },
+  {
+    "count": 249,
+    "avg_fare": 14.443775100401606,
+    "avg_distance": 3.7553815261044177,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 3
+  },
+  {
+    "count": 30,
+    "avg_fare": 13.516666666666667,
+    "avg_distance": 3.812,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 8
+  },
+  {
+    "count": 60,
+    "avg_fare": 9.175,
+    "avg_distance": 2.1401666666666666,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 1
+  },
+  {
+    "count": 287,
+    "avg_fare": 11.170034843205576,
+    "avg_distance": 2.7082229965156794,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 35.0,
+    "avg_distance": 11.73,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 3
+  },
+  {
+    "count": 2,
+    "avg_fare": 7.25,
+    "avg_distance": 1.8699999999999999,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 17
+  },
+  {
+    "count": 449,
+    "avg_fare": 14.023340757238307,
+    "avg_distance": 3.777616926503341,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 4
+  },
+  {
+    "count": 2,
+    "avg_fare": 18.5,
+    "avg_distance": 4.735,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 8
+  },
+  {
+    "count": 62,
+    "avg_fare": 13.080645161290322,
+    "avg_distance": 3.5290322580645164,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 9
+  },
+  {
+    "count": 3,
+    "avg_fare": 9.333333333333334,
+    "avg_distance": 2.063333333333333,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 23
+  },
+  {
+    "count": 233,
+    "avg_fare": 9.594420600858369,
+    "avg_distance": 2.391587982832618,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 11
+  },
+  {
+    "count": 25,
+    "avg_fare": 11.6,
+    "avg_distance": 2.9648000000000003,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 0
+  },
+  {
+    "count": 4,
+    "avg_fare": 27.47,
+    "avg_distance": 9.435,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 4
+  },
+  {
+    "count": 77,
+    "avg_fare": 21.362207792207794,
+    "avg_distance": 3.2245454545454546,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 10
+  },
+  {
+    "count": 66,
+    "avg_fare": 14.946969696969697,
+    "avg_distance": 3.9231818181818183,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 0
+  },
+  {
+    "count": 2686,
+    "avg_fare": 15.623283693224124,
+    "avg_distance": 4.568373045420699,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 9
+  },
+  {
+    "count": 8,
+    "avg_fare": 14.56625,
+    "avg_distance": 4.315,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 12
+  },
+  {
+    "count": 139,
+    "avg_fare": 14.043165467625899,
+    "avg_distance": 3.239496402877698,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 2
+  },
+  {
+    "count": 22,
+    "avg_fare": 20.136363636363637,
+    "avg_distance": 6.011363636363637,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 5
+  },
+  {
+    "count": 154,
+    "avg_fare": 19.42616883116883,
+    "avg_distance": 3.3544155844155847,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 4
+  },
+  {
+    "count": 63,
+    "avg_fare": 14.825396825396826,
+    "avg_distance": 3.81015873015873,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 23
+  },
+  {
+    "count": 4,
+    "avg_fare": 19.375,
+    "avg_distance": 4.975,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 0
+  },
+  {
+    "count": 188,
+    "avg_fare": 8.813085106382978,
+    "avg_distance": 2.134148936170213,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 11
+  },
+  {
+    "count": 142,
+    "avg_fare": 11.971830985915492,
+    "avg_distance": 3.148450704225352,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 9
+  },
+  {
+    "count": 34,
+    "avg_fare": 12.397058823529411,
+    "avg_distance": 3.501764705882353,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 6
+  },
+  {
+    "count": 11,
+    "avg_fare": 8.954545454545455,
+    "avg_distance": 2.097272727272727,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 7
+  },
+  {
+    "count": 180,
+    "avg_fare": 12.993166666666667,
+    "avg_distance": 3.6530555555555555,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 7
+  },
+  {
+    "count": 11,
+    "avg_fare": 12.863636363636363,
+    "avg_distance": 3.708181818181818,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 5
+  },
+  {
+    "count": 81,
+    "avg_fare": 14.444444444444445,
+    "avg_distance": 3.8870370370370373,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 8
+  },
+  {
+    "count": 2,
+    "avg_fare": 19.25,
+    "avg_distance": 5.75,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 8
+  },
+  {
+    "count": 8,
+    "avg_fare": 11.5,
+    "avg_distance": 2.11375,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 23
+  },
+  {
+    "count": 2,
+    "avg_fare": 6.75,
+    "avg_distance": 1.335,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 22
+  },
+  {
+    "count": 101,
+    "avg_fare": 11.490099009900991,
+    "avg_distance": 3.0565346534653464,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 7
+  },
+  {
+    "count": 22,
+    "avg_fare": 13.954545454545455,
+    "avg_distance": 3.2681818181818185,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 2
+  },
+  {
+    "count": 2,
+    "avg_fare": 6.5,
+    "avg_distance": 1.065,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 20
+  },
+  {
+    "count": 28,
+    "avg_fare": 9.071428571428571,
+    "avg_distance": 2.1825,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 21.5,
+    "avg_distance": 4.48,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 19
+  },
+  {
+    "count": 80,
+    "avg_fare": 15.358875000000001,
+    "avg_distance": 4.3923749999999995,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 9
+  },
+  {
+    "count": 6,
+    "avg_fare": 37.75,
+    "avg_distance": 12.363333333333335,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 5
+  },
+  {
+    "count": 5,
+    "avg_fare": 11.3,
+    "avg_distance": 3.022,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 9
+  },
+  {
+    "count": 201,
+    "avg_fare": 10.41412935323383,
+    "avg_distance": 2.53636815920398,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 6.5,
+    "avg_distance": 0.91,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 13
+  },
+  {
+    "count": 74,
+    "avg_fare": 11.248378378378378,
+    "avg_distance": 2.935945945945946,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 10
+  },
+  {
+    "count": 1,
+    "avg_fare": 3.0,
+    "avg_distance": 0.3,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 10
+  },
+  {
+    "count": 35,
+    "avg_fare": 17.52857142857143,
+    "avg_distance": 4.695142857142858,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 4.5,
+    "avg_distance": 0.71,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 18
+  },
+  {
+    "count": 434,
+    "avg_fare": 12.107142857142858,
+    "avg_distance": 2.8813824884792627,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 1
+  },
+  {
+    "count": 2,
+    "avg_fare": 8.25,
+    "avg_distance": 1.3050000000000002,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 4
+  },
+  {
+    "count": 59,
+    "avg_fare": 11.483050847457626,
+    "avg_distance": 2.887627118644068,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 45.5,
+    "avg_distance": 16.2,
+    "grid_x": -7395,
+    "grid_y": 4074,
+    "grid_key": "-7395_4074",
+    "hour": 9
+  },
+  {
+    "count": 2,
+    "avg_fare": 15.25,
+    "avg_distance": 4.285,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 6
+  },
+  {
+    "count": 20,
+    "avg_fare": 10.3,
+    "avg_distance": 2.627,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 11
+  },
+  {
+    "count": 18,
+    "avg_fare": 15.166666666666666,
+    "avg_distance": 4.551111111111111,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 7
+  },
+  {
+    "count": 617,
+    "avg_fare": 11.941653160453809,
+    "avg_distance": 2.7186385737439225,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 1
+  },
+  {
+    "count": 2,
+    "avg_fare": 8.5,
+    "avg_distance": 1.65,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.0,
+    "avg_distance": 0.49,
+    "grid_x": -7393,
+    "grid_y": 4063,
+    "grid_key": "-7393_4063",
+    "hour": 3
+  },
+  {
+    "count": 12,
+    "avg_fare": 11.833333333333334,
+    "avg_distance": 2.7475,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 0
+  },
+  {
+    "count": 1,
+    "avg_fare": 52.0,
+    "avg_distance": 14.9,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 9
+  },
+  {
+    "count": 425,
+    "avg_fare": 11.601176470588236,
+    "avg_distance": 2.4330588235294117,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 0
+  },
+  {
+    "count": 102,
+    "avg_fare": 12.857843137254902,
+    "avg_distance": 3.0727450980392157,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 55.5,
+    "avg_distance": 18.03,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 1
+  },
+  {
+    "count": 2,
+    "avg_fare": 29.785,
+    "avg_distance": 10.57,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 8
+  },
+  {
+    "count": 11,
+    "avg_fare": 15.80909090909091,
+    "avg_distance": 4.723636363636364,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 5
+  },
+  {
+    "count": 5,
+    "avg_fare": 14.2,
+    "avg_distance": 4.018,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 6
+  },
+  {
+    "count": 111,
+    "avg_fare": 12.896396396396396,
+    "avg_distance": 3.5718918918918923,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 4
+  },
+  {
+    "count": 1,
+    "avg_fare": 3.5,
+    "avg_distance": 0.5,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 18
+  },
+  {
+    "count": 1,
+    "avg_fare": 12.5,
+    "avg_distance": 2.98,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 21
+  },
+  {
+    "count": 31,
+    "avg_fare": 18.129032258064516,
+    "avg_distance": 3.820322580645161,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 0
+  },
+  {
+    "count": 2,
+    "avg_fare": 9.0,
+    "avg_distance": 1.425,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 14
+  },
+  {
+    "count": 1,
+    "avg_fare": 21.5,
+    "avg_distance": 7.2,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 21
+  },
+  {
+    "count": 1,
+    "avg_fare": 24.72,
+    "avg_distance": 8.75,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 9
+  },
+  {
+    "count": 17,
+    "avg_fare": 16.323529411764707,
+    "avg_distance": 4.328823529411765,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 0
+  },
+  {
+    "count": 264,
+    "avg_fare": 12.752878787878789,
+    "avg_distance": 3.4025,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 5
+  },
+  {
+    "count": 7,
+    "avg_fare": 10.071428571428571,
+    "avg_distance": 2.472857142857143,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 12
+  },
+  {
+    "count": 14,
+    "avg_fare": 13.142857142857142,
+    "avg_distance": 3.579285714285714,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 13
+  },
+  {
+    "count": 30,
+    "avg_fare": 12.866666666666667,
+    "avg_distance": 3.2493333333333334,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 13
+  },
+  {
+    "count": 16,
+    "avg_fare": 23.53125,
+    "avg_distance": 6.4731250000000005,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 1
+  },
+  {
+    "count": 48,
+    "avg_fare": 13.6875,
+    "avg_distance": 3.687291666666667,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 7
+  },
+  {
+    "count": 432,
+    "avg_fare": 10.118055555555555,
+    "avg_distance": 2.2232175925925923,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 0
+  },
+  {
+    "count": 3,
+    "avg_fare": 40.70666666666667,
+    "avg_distance": 14.173333333333332,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 8
+  },
+  {
+    "count": 76,
+    "avg_fare": 11.855263157894736,
+    "avg_distance": 3.0048684210526315,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 13
+  },
+  {
+    "count": 2,
+    "avg_fare": 43.0,
+    "avg_distance": 14.01,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 12
+  },
+  {
+    "count": 3,
+    "avg_fare": 8.333333333333334,
+    "avg_distance": 1.7,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 12
+  },
+  {
+    "count": 3,
+    "avg_fare": 24.849999999999998,
+    "avg_distance": 8.273333333333333,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 6
+  },
+  {
+    "count": 51,
+    "avg_fare": 12.621960784313726,
+    "avg_distance": 2.491764705882353,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 9
+  },
+  {
+    "count": 142,
+    "avg_fare": 10.577464788732394,
+    "avg_distance": 2.45443661971831,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 0
+  },
+  {
+    "count": 2,
+    "avg_fare": 120.0,
+    "avg_distance": 0.0,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 8
+  },
+  {
+    "count": 6,
+    "avg_fare": 10.333333333333334,
+    "avg_distance": 2.563333333333333,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 10
+  },
+  {
+    "count": 212,
+    "avg_fare": 10.10570754716981,
+    "avg_distance": 2.3555188679245282,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 12
+  },
+  {
+    "count": 42,
+    "avg_fare": 16.404761904761905,
+    "avg_distance": 2.918333333333333,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 4
+  },
+  {
+    "count": 273,
+    "avg_fare": 13.351648351648352,
+    "avg_distance": 3.3097069597069595,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 12
+  },
+  {
+    "count": 6253,
+    "avg_fare": 12.986312170158325,
+    "avg_distance": 3.3285271069886453,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 3
+  },
+  {
+    "count": 2,
+    "avg_fare": 41.495000000000005,
+    "avg_distance": 6.115,
+    "grid_x": -7381,
+    "grid_y": 4081,
+    "grid_key": "-7381_4081",
+    "hour": 5
+  },
+  {
+    "count": 60,
+    "avg_fare": 11.925,
+    "avg_distance": 3.2598333333333334,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 8
+  },
+  {
+    "count": 17,
+    "avg_fare": 16.823529411764707,
+    "avg_distance": 5.074117647058824,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 11
+  },
+  {
+    "count": 86,
+    "avg_fare": 12.61046511627907,
+    "avg_distance": 3.357674418604651,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 3
+  },
+  {
+    "count": 40,
+    "avg_fare": 17.99525,
+    "avg_distance": 2.9915,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 8
+  },
+  {
+    "count": 41,
+    "avg_fare": 8.646341463414634,
+    "avg_distance": 1.8929268292682926,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 9
+  },
+  {
+    "count": 1,
+    "avg_fare": 52.0,
+    "avg_distance": 8.34,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 10
+  },
+  {
+    "count": 6049,
+    "avg_fare": 13.48621755662093,
+    "avg_distance": 3.651314266820962,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 12
+  },
+  {
+    "count": 3,
+    "avg_fare": 19.333333333333332,
+    "avg_distance": 5.826666666666665,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 0
+  },
+  {
+    "count": 3,
+    "avg_fare": 11.833333333333334,
+    "avg_distance": 2.97,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 12
+  },
+  {
+    "count": 3,
+    "avg_fare": 31.833333333333332,
+    "avg_distance": 11.1,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 2
+  },
+  {
+    "count": 3,
+    "avg_fare": 9.666666666666666,
+    "avg_distance": 2.11,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 0
+  },
+  {
+    "count": 39,
+    "avg_fare": 11.48076923076923,
+    "avg_distance": 3.0984615384615384,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 9
+  },
+  {
+    "count": 3,
+    "avg_fare": 30.483333333333334,
+    "avg_distance": 11.093333333333334,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.5,
+    "avg_distance": 2.02,
+    "grid_x": -7393,
+    "grid_y": 4063,
+    "grid_key": "-7393_4063",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 2.5,
+    "avg_distance": 0.0,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 17
+  },
+  {
+    "count": 52,
+    "avg_fare": 10.942307692307692,
+    "avg_distance": 2.5890384615384616,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 23.0,
+    "avg_distance": 3.91,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 16
+  },
+  {
+    "count": 1,
+    "avg_fare": 4.0,
+    "avg_distance": 0.5,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 13
+  },
+  {
+    "count": 3,
+    "avg_fare": 52.0,
+    "avg_distance": 14.709999999999999,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 10
+  },
+  {
+    "count": 7,
+    "avg_fare": 29.857142857142858,
+    "avg_distance": 6.408571428571428,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 23
+  },
+  {
+    "count": 13,
+    "avg_fare": 13.5,
+    "avg_distance": 3.6046153846153848,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 10.0,
+    "avg_distance": 2.66,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 17
+  },
+  {
+    "count": 31,
+    "avg_fare": 11.303225806451612,
+    "avg_distance": 2.701290322580645,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 13
+  },
+  {
+    "count": 8,
+    "avg_fare": 21.3125,
+    "avg_distance": 6.79875,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 11
+  },
+  {
+    "count": 3,
+    "avg_fare": 10.666666666666666,
+    "avg_distance": 2.89,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 11
+  },
+  {
+    "count": 2,
+    "avg_fare": 11.5,
+    "avg_distance": 3.095,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 3
+  },
+  {
+    "count": 3,
+    "avg_fare": 34.64666666666667,
+    "avg_distance": 11.556666666666667,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 5
+  },
+  {
+    "count": 7,
+    "avg_fare": 14.15,
+    "avg_distance": 4.630000000000001,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 7
+  },
+  {
+    "count": 145,
+    "avg_fare": 12.527586206896551,
+    "avg_distance": 2.9723448275862068,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 1
+  },
+  {
+    "count": 64,
+    "avg_fare": 9.1015625,
+    "avg_distance": 2.30703125,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 8
+  },
+  {
+    "count": 230,
+    "avg_fare": 14.384782608695652,
+    "avg_distance": 3.1702608695652175,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 1
+  },
+  {
+    "count": 2,
+    "avg_fare": 10.5,
+    "avg_distance": 1.51,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 19
+  },
+  {
+    "count": 476,
+    "avg_fare": 11.166743697478992,
+    "avg_distance": 2.620714285714286,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 2
+  },
+  {
+    "count": 157,
+    "avg_fare": 12.436305732484076,
+    "avg_distance": 3.381910828025478,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 1
+  },
+  {
+    "count": 8,
+    "avg_fare": 7.875,
+    "avg_distance": 2.12625,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 9
+  },
+  {
+    "count": 2,
+    "avg_fare": 10.75,
+    "avg_distance": 2.54,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 1
+  },
+  {
+    "count": 7,
+    "avg_fare": 19.0,
+    "avg_distance": 5.751428571428571,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 9
+  },
+  {
+    "count": 14,
+    "avg_fare": 29.214285714285715,
+    "avg_distance": 5.484285714285714,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 0
+  },
+  {
+    "count": 51,
+    "avg_fare": 10.127450980392156,
+    "avg_distance": 2.5837254901960787,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 10
+  },
+  {
+    "count": 8,
+    "avg_fare": 10.6875,
+    "avg_distance": 2.7375,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 23
+  },
+  {
+    "count": 8,
+    "avg_fare": 22.5625,
+    "avg_distance": 3.6675,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 6
+  },
+  {
+    "count": 143,
+    "avg_fare": 15.437062937062937,
+    "avg_distance": 4.530559440559441,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 4
+  },
+  {
+    "count": 1,
+    "avg_fare": 33.0,
+    "avg_distance": 10.62,
+    "grid_x": -7397,
+    "grid_y": 4057,
+    "grid_key": "-7397_4057",
+    "hour": 6
+  },
+  {
+    "count": 4,
+    "avg_fare": 19.875,
+    "avg_distance": 6.15,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 10
+  },
+  {
+    "count": 18,
+    "avg_fare": 16.97222222222222,
+    "avg_distance": 4.539444444444445,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 1
+  },
+  {
+    "count": 62,
+    "avg_fare": 14.07258064516129,
+    "avg_distance": 3.794032258064516,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 4
+  },
+  {
+    "count": 4,
+    "avg_fare": 13.0,
+    "avg_distance": 3.3775,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 19
+  },
+  {
+    "count": 8,
+    "avg_fare": 11.5625,
+    "avg_distance": 2.59125,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 18
+  },
+  {
+    "count": 22,
+    "avg_fare": 16.208181818181817,
+    "avg_distance": 4.719545454545455,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 4
+  },
+  {
+    "count": 232,
+    "avg_fare": 9.079741379310345,
+    "avg_distance": 2.048620689655172,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 11
+  },
+  {
+    "count": 52,
+    "avg_fare": 24.204615384615387,
+    "avg_distance": 2.753076923076923,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 22.0,
+    "avg_distance": 4.92,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 18
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.5,
+    "avg_distance": 1.91,
+    "grid_x": -7398,
+    "grid_y": 4070,
+    "grid_key": "-7398_4070",
+    "hour": 5
+  },
+  {
+    "count": 77,
+    "avg_fare": 12.727272727272727,
+    "avg_distance": 3.643246753246753,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 6
+  },
+  {
+    "count": 4,
+    "avg_fare": 13.5,
+    "avg_distance": 3.1625,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 18
+  },
+  {
+    "count": 370,
+    "avg_fare": 12.984108108108108,
+    "avg_distance": 3.348837837837838,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 4
+  },
+  {
+    "count": 1,
+    "avg_fare": 12.5,
+    "avg_distance": 2.86,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 23
+  },
+  {
+    "count": 15,
+    "avg_fare": 16.533333333333335,
+    "avg_distance": 4.978666666666667,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 3
+  },
+  {
+    "count": 59,
+    "avg_fare": 11.516949152542374,
+    "avg_distance": 3.0549152542372884,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 3
+  },
+  {
+    "count": 72,
+    "avg_fare": 14.003888888888888,
+    "avg_distance": 3.961111111111111,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 7
+  },
+  {
+    "count": 500,
+    "avg_fare": 12.765,
+    "avg_distance": 3.08752,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 3
+  },
+  {
+    "count": 2,
+    "avg_fare": 32.5,
+    "avg_distance": 10.52,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 3
+  },
+  {
+    "count": 10,
+    "avg_fare": 15.65,
+    "avg_distance": 4.603,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 4
+  },
+  {
+    "count": 13,
+    "avg_fare": 16.076923076923077,
+    "avg_distance": 4.623846153846154,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 4
+  },
+  {
+    "count": 71,
+    "avg_fare": 13.133802816901408,
+    "avg_distance": 3.708732394366197,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 4
+  },
+  {
+    "count": 1,
+    "avg_fare": 15.0,
+    "avg_distance": 3.03,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 16
+  },
+  {
+    "count": 73,
+    "avg_fare": 13.943013698630137,
+    "avg_distance": 4.057260273972603,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 5
+  },
+  {
+    "count": 284,
+    "avg_fare": 18.529295774647885,
+    "avg_distance": 2.766619718309859,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 11.0,
+    "avg_distance": 2.85,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 14
+  },
+  {
+    "count": 45,
+    "avg_fare": 18.0,
+    "avg_distance": 4.459333333333333,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 1
+  },
+  {
+    "count": 1,
+    "avg_fare": 60.5,
+    "avg_distance": 0.31,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 20
+  },
+  {
+    "count": 122,
+    "avg_fare": 12.971311475409836,
+    "avg_distance": 3.466311475409836,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 2.5,
+    "avg_distance": 0.0,
+    "grid_x": -7381,
+    "grid_y": 4081,
+    "grid_key": "-7381_4081",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 18.0,
+    "avg_distance": 5.71,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 15
+  },
+  {
+    "count": 185,
+    "avg_fare": 11.194594594594594,
+    "avg_distance": 2.6658918918918917,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 12
+  },
+  {
+    "count": 147,
+    "avg_fare": 15.07482993197279,
+    "avg_distance": 4.159659863945579,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 5
+  },
+  {
+    "count": 7,
+    "avg_fare": 12.5,
+    "avg_distance": 3.21,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 6
+  },
+  {
+    "count": 38,
+    "avg_fare": 18.763157894736842,
+    "avg_distance": 4.091578947368421,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 9
+  },
+  {
+    "count": 2649,
+    "avg_fare": 12.957289543223858,
+    "avg_distance": 3.465722914307286,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 12.5,
+    "avg_distance": 3.32,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 23
+  },
+  {
+    "count": 2,
+    "avg_fare": 40.25,
+    "avg_distance": 12.225000000000001,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 4
+  },
+  {
+    "count": 15,
+    "avg_fare": 15.5,
+    "avg_distance": 4.373333333333333,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 5
+  },
+  {
+    "count": 18,
+    "avg_fare": 16.055555555555557,
+    "avg_distance": 4.242222222222222,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 21
+  },
+  {
+    "count": 1,
+    "avg_fare": 24.5,
+    "avg_distance": 8.3,
+    "grid_x": -7381,
+    "grid_y": 4081,
+    "grid_key": "-7381_4081",
+    "hour": 0
+  },
+  {
+    "count": 52,
+    "avg_fare": 14.85576923076923,
+    "avg_distance": 3.851730769230769,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 15.0,
+    "avg_distance": 4.46,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 23
+  },
+  {
+    "count": 1,
+    "avg_fare": 6.5,
+    "avg_distance": 1.24,
+    "grid_x": -7393,
+    "grid_y": 4063,
+    "grid_key": "-7393_4063",
+    "hour": 2
+  },
+  {
+    "count": 91,
+    "avg_fare": 13.456043956043956,
+    "avg_distance": 3.3327472527472524,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 0
+  },
+  {
+    "count": 18,
+    "avg_fare": 10.88888888888889,
+    "avg_distance": 2.6177777777777775,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 3
+  },
+  {
+    "count": 4,
+    "avg_fare": 17.375,
+    "avg_distance": 5.2225,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 21
+  },
+  {
+    "count": 58,
+    "avg_fare": 16.353448275862068,
+    "avg_distance": 4.360344827586207,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 1
+  },
+  {
+    "count": 47,
+    "avg_fare": 15.691702127659575,
+    "avg_distance": 3.664255319148936,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 2
+  },
+  {
+    "count": 417,
+    "avg_fare": 12.570023980815348,
+    "avg_distance": 2.976930455635492,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 2
+  },
+  {
+    "count": 93,
+    "avg_fare": 15.709677419354838,
+    "avg_distance": 3.9520430107526883,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 80.0,
+    "avg_distance": 0.0,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 21.0,
+    "avg_distance": 6.52,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 7
+  },
+  {
+    "count": 50,
+    "avg_fare": 13.2454,
+    "avg_distance": 3.3818,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 10
+  },
+  {
+    "count": 1,
+    "avg_fare": 2.5,
+    "avg_distance": 0.0,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 10
+  },
+  {
+    "count": 4,
+    "avg_fare": 18.127499999999998,
+    "avg_distance": 5.035,
+    "grid_x": -7398,
+    "grid_y": 4070,
+    "grid_key": "-7398_4070",
+    "hour": 8
+  },
+  {
+    "count": 1,
+    "avg_fare": 12.5,
+    "avg_distance": 2.86,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 16
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.0,
+    "avg_distance": 2.4,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 11.5,
+    "avg_distance": 2.69,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 14
+  },
+  {
+    "count": 3,
+    "avg_fare": 44.833333333333336,
+    "avg_distance": 15.853333333333333,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 7
+  },
+  {
+    "count": 2,
+    "avg_fare": 27.5,
+    "avg_distance": 8.715,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 8
+  },
+  {
+    "count": 969,
+    "avg_fare": 12.387306501547988,
+    "avg_distance": 3.138142414860681,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 3
+  },
+  {
+    "count": 112,
+    "avg_fare": 13.825892857142858,
+    "avg_distance": 3.797053571428571,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 12
+  },
+  {
+    "count": 2,
+    "avg_fare": 6.5,
+    "avg_distance": 1.045,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 23
+  },
+  {
+    "count": 91,
+    "avg_fare": 14.736263736263735,
+    "avg_distance": 4.311868131868132,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 5
+  },
+  {
+    "count": 518,
+    "avg_fare": 13.288185328185328,
+    "avg_distance": 3.633127413127413,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 4
+  },
+  {
+    "count": 1,
+    "avg_fare": 16.0,
+    "avg_distance": 2.89,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 15
+  },
+  {
+    "count": 5,
+    "avg_fare": 21.016,
+    "avg_distance": 6.578,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 20.0,
+    "avg_distance": 0.0,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 2
+  },
+  {
+    "count": 102,
+    "avg_fare": 17.354803921568628,
+    "avg_distance": 3.2703921568627448,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 11
+  },
+  {
+    "count": 238,
+    "avg_fare": 10.211806722689076,
+    "avg_distance": 2.5037394957983192,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 11
+  },
+  {
+    "count": 68,
+    "avg_fare": 17.073529411764707,
+    "avg_distance": 4.718970588235294,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 11
+  },
+  {
+    "count": 9766,
+    "avg_fare": 12.755315379889412,
+    "avg_distance": 2.9903901290190458,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 1
+  },
+  {
+    "count": 142,
+    "avg_fare": 10.01056338028169,
+    "avg_distance": 2.4219718309859157,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 11
+  },
+  {
+    "count": 1,
+    "avg_fare": 24.5,
+    "avg_distance": 8.2,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 0
+  },
+  {
+    "count": 318,
+    "avg_fare": 11.30503144654088,
+    "avg_distance": 2.768176100628931,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 12
+  },
+  {
+    "count": 90,
+    "avg_fare": 13.655555555555555,
+    "avg_distance": 3.748666666666667,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 4.5,
+    "avg_distance": 0.84,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 14
+  },
+  {
+    "count": 124,
+    "avg_fare": 10.294354838709678,
+    "avg_distance": 2.6208870967741937,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 10
+  },
+  {
+    "count": 127,
+    "avg_fare": 13.558582677165354,
+    "avg_distance": 3.7912598425196853,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.5,
+    "avg_distance": 2.05,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 9
+  },
+  {
+    "count": 1,
+    "avg_fare": 16.61,
+    "avg_distance": 4.37,
+    "grid_x": -7381,
+    "grid_y": 4081,
+    "grid_key": "-7381_4081",
+    "hour": 7
+  },
+  {
+    "count": 126,
+    "avg_fare": 11.61111111111111,
+    "avg_distance": 2.8261904761904764,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 13
+  },
+  {
+    "count": 5,
+    "avg_fare": 10.5,
+    "avg_distance": 2.686,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 8
+  },
+  {
+    "count": 327,
+    "avg_fare": 13.996513761467888,
+    "avg_distance": 3.756605504587156,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 4
+  },
+  {
+    "count": 34,
+    "avg_fare": 21.273529411764706,
+    "avg_distance": 6.126176470588235,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 9
+  },
+  {
+    "count": 283,
+    "avg_fare": 12.222614840989399,
+    "avg_distance": 3.0984805653710246,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 11
+  },
+  {
+    "count": 4,
+    "avg_fare": 26.625,
+    "avg_distance": 8.24,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 10
+  },
+  {
+    "count": 184,
+    "avg_fare": 12.418478260869565,
+    "avg_distance": 3.145597826086956,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 2
+  },
+  {
+    "count": 2,
+    "avg_fare": 4.25,
+    "avg_distance": 0.51,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 23
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.5,
+    "avg_distance": 1.8,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 8
+  },
+  {
+    "count": 66,
+    "avg_fare": 11.778636363636364,
+    "avg_distance": 3.1713636363636364,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 10.5,
+    "avg_distance": 2.08,
+    "grid_x": -7400,
+    "grid_y": 4071,
+    "grid_key": "-7400_4071",
+    "hour": 14
+  },
+  {
+    "count": 152,
+    "avg_fare": 10.705526315789474,
+    "avg_distance": 2.6946710526315787,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 9
+  },
+  {
+    "count": 2,
+    "avg_fare": 5.75,
+    "avg_distance": 1.04,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 17
+  },
+  {
+    "count": 162,
+    "avg_fare": 10.188333333333333,
+    "avg_distance": 2.6359876543209877,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 10
+  },
+  {
+    "count": 1,
+    "avg_fare": 4.5,
+    "avg_distance": 0.84,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 11
+  },
+  {
+    "count": 1,
+    "avg_fare": 12.5,
+    "avg_distance": 3.18,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 16
+  },
+  {
+    "count": 13,
+    "avg_fare": 18.76923076923077,
+    "avg_distance": 4.988461538461538,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 8
+  },
+  {
+    "count": 99,
+    "avg_fare": 11.01010101010101,
+    "avg_distance": 2.7756565656565657,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 12
+  },
+  {
+    "count": 6,
+    "avg_fare": 11.083333333333334,
+    "avg_distance": 2.64,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 6
+  },
+  {
+    "count": 4,
+    "avg_fare": 11.75,
+    "avg_distance": 2.1725,
+    "grid_x": -7398,
+    "grid_y": 4070,
+    "grid_key": "-7398_4070",
+    "hour": 11
+  },
+  {
+    "count": 152,
+    "avg_fare": 8.611842105263158,
+    "avg_distance": 2.0357894736842104,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 11
+  },
+  {
+    "count": 106,
+    "avg_fare": 10.476415094339623,
+    "avg_distance": 2.490849056603774,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 13
+  },
+  {
+    "count": 2,
+    "avg_fare": 0.0,
+    "avg_distance": 0.0,
+    "grid_x": -7397,
+    "grid_y": 4057,
+    "grid_key": "-7397_4057",
+    "hour": 9
+  },
+  {
+    "count": 1,
+    "avg_fare": 29.0,
+    "avg_distance": 10.09,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 12
+  },
+  {
+    "count": 111,
+    "avg_fare": 10.77927927927928,
+    "avg_distance": 2.4318918918918917,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 13
+  },
+  {
+    "count": 486,
+    "avg_fare": 15.08230452674897,
+    "avg_distance": 3.1526748971193417,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 0
+  },
+  {
+    "count": 1,
+    "avg_fare": 14.0,
+    "avg_distance": 3.1,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 11
+  },
+  {
+    "count": 1,
+    "avg_fare": 10.0,
+    "avg_distance": 2.48,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 10
+  },
+  {
+    "count": 83,
+    "avg_fare": 11.672289156626505,
+    "avg_distance": 2.8838554216867474,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 22.0,
+    "avg_distance": 7.3,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 19
+  },
+  {
+    "count": 1,
+    "avg_fare": 85.0,
+    "avg_distance": 0.0,
+    "grid_x": -7418,
+    "grid_y": 4068,
+    "grid_key": "-7418_4068",
+    "hour": 5
+  },
+  {
+    "count": 6,
+    "avg_fare": 18.023333333333333,
+    "avg_distance": 4.713333333333334,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 9
+  },
+  {
+    "count": 3704,
+    "avg_fare": 14.867861771058315,
+    "avg_distance": 4.216590172786177,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 10
+  },
+  {
+    "count": 93,
+    "avg_fare": 9.016129032258064,
+    "avg_distance": 2.1121505376344087,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 13
+  },
+  {
+    "count": 28,
+    "avg_fare": 14.618214285714286,
+    "avg_distance": 4.436428571428571,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 13
+  },
+  {
+    "count": 10,
+    "avg_fare": 12.95,
+    "avg_distance": 3.3340000000000005,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 43.0,
+    "avg_distance": 15.34,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 23
+  },
+  {
+    "count": 44,
+    "avg_fare": 21.154545454545453,
+    "avg_distance": 4.403863636363637,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 7
+  },
+  {
+    "count": 16,
+    "avg_fare": 12.75,
+    "avg_distance": 3.609375,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 10
+  },
+  {
+    "count": 4,
+    "avg_fare": 31.0,
+    "avg_distance": 9.657499999999999,
+    "grid_x": -7394,
+    "grid_y": 4082,
+    "grid_key": "-7394_4082",
+    "hour": 7
+  },
+  {
+    "count": 13,
+    "avg_fare": 15.846153846153847,
+    "avg_distance": 4.6899999999999995,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 4
+  },
+  {
+    "count": 4009,
+    "avg_fare": 13.853599401346969,
+    "avg_distance": 3.721778498378648,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 4
+  },
+  {
+    "count": 34,
+    "avg_fare": 18.71470588235294,
+    "avg_distance": 4.917647058823529,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.5,
+    "avg_distance": 1.96,
+    "grid_x": -7398,
+    "grid_y": 4070,
+    "grid_key": "-7398_4070",
+    "hour": 3
+  },
+  {
+    "count": 50,
+    "avg_fare": 16.15,
+    "avg_distance": 4.7758,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 10
+  },
+  {
+    "count": 574,
+    "avg_fare": 12.958188153310104,
+    "avg_distance": 2.627473867595819,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 0
+  },
+  {
+    "count": 7,
+    "avg_fare": 9.714285714285714,
+    "avg_distance": 2.2857142857142856,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 2
+  },
+  {
+    "count": 3,
+    "avg_fare": 17.666666666666668,
+    "avg_distance": 4.923333333333333,
+    "grid_x": -7383,
+    "grid_y": 4076,
+    "grid_key": "-7383_4076",
+    "hour": 1
+  },
+  {
+    "count": 17,
+    "avg_fare": 17.794117647058822,
+    "avg_distance": 5.051176470588236,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 20
+  },
+  {
+    "count": 19,
+    "avg_fare": 12.763157894736842,
+    "avg_distance": 3.6826315789473685,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 9
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.5,
+    "avg_distance": 2.13,
+    "grid_x": -7397,
+    "grid_y": 4057,
+    "grid_key": "-7397_4057",
+    "hour": 7
+  },
+  {
+    "count": 86,
+    "avg_fare": 22.585348837209303,
+    "avg_distance": 4.001976744186047,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 5
+  },
+  {
+    "count": 8,
+    "avg_fare": 11.0,
+    "avg_distance": 3.0162500000000003,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 12
+  },
+  {
+    "count": 11,
+    "avg_fare": 19.045454545454547,
+    "avg_distance": 4.172727272727273,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 22
+  },
+  {
+    "count": 1,
+    "avg_fare": 18.0,
+    "avg_distance": 4.11,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 22
+  },
+  {
+    "count": 2,
+    "avg_fare": 14.0,
+    "avg_distance": 3.89,
+    "grid_x": -7393,
+    "grid_y": 4063,
+    "grid_key": "-7393_4063",
+    "hour": 12
+  },
+  {
+    "count": 24,
+    "avg_fare": 17.833333333333332,
+    "avg_distance": 3.4458333333333333,
+    "grid_x": -7389,
+    "grid_y": 4065,
+    "grid_key": "-7389_4065",
+    "hour": 6
+  },
+  {
+    "count": 2,
+    "avg_fare": 7.5,
+    "avg_distance": 1.6,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 21
+  },
+  {
+    "count": 4,
+    "avg_fare": 34.45,
+    "avg_distance": 8.155000000000001,
+    "grid_x": -7399,
+    "grid_y": 4068,
+    "grid_key": "-7399_4068",
+    "hour": 3
+  },
+  {
+    "count": 599,
+    "avg_fare": 14.710367278797998,
+    "avg_distance": 3.3459098497495825,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 1
+  },
+  {
+    "count": 3,
+    "avg_fare": 45.166666666666664,
+    "avg_distance": 16.793333333333333,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 1
+  },
+  {
+    "count": 21,
+    "avg_fare": 20.142857142857142,
+    "avg_distance": 4.166190476190476,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 16
+  },
+  {
+    "count": 1,
+    "avg_fare": 16.5,
+    "avg_distance": 4.57,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 22
+  },
+  {
+    "count": 211,
+    "avg_fare": 14.864928909952607,
+    "avg_distance": 4.296445497630332,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 5
+  },
+  {
+    "count": 89,
+    "avg_fare": 10.865168539325843,
+    "avg_distance": 2.872696629213483,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 9
+  },
+  {
+    "count": 127,
+    "avg_fare": 14.645669291338583,
+    "avg_distance": 4.260157480314961,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 7
+  },
+  {
+    "count": 4,
+    "avg_fare": 18.25,
+    "avg_distance": 5.395,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 8
+  },
+  {
+    "count": 2,
+    "avg_fare": 11.75,
+    "avg_distance": 2.6100000000000003,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 19
+  },
+  {
+    "count": 6,
+    "avg_fare": 23.246666666666666,
+    "avg_distance": 7.670000000000001,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 6
+  },
+  {
+    "count": 2,
+    "avg_fare": 19.5,
+    "avg_distance": 6.37,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 8
+  },
+  {
+    "count": 246,
+    "avg_fare": 15.382113821138212,
+    "avg_distance": 3.608861788617886,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 0
+  },
+  {
+    "count": 104,
+    "avg_fare": 14.98076923076923,
+    "avg_distance": 4.309423076923077,
+    "grid_x": -7396,
+    "grid_y": 4068,
+    "grid_key": "-7396_4068",
+    "hour": 3
+  },
+  {
+    "count": 76,
+    "avg_fare": 12.368421052631579,
+    "avg_distance": 3.281578947368421,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 8
+  },
+  {
+    "count": 2,
+    "avg_fare": 63.25,
+    "avg_distance": 0.35,
+    "grid_x": -7401,
+    "grid_y": 4071,
+    "grid_key": "-7401_4071",
+    "hour": 23
+  },
+  {
+    "count": 1,
+    "avg_fare": 8.0,
+    "avg_distance": 2.35,
+    "grid_x": -7387,
+    "grid_y": 4074,
+    "grid_key": "-7387_4074",
+    "hour": 14
+  },
+  {
+    "count": 39,
+    "avg_fare": 16.576923076923077,
+    "avg_distance": 4.5689743589743586,
+    "grid_x": -7394,
+    "grid_y": 4086,
+    "grid_key": "-7394_4086",
+    "hour": 4
+  },
+  {
+    "count": 1,
+    "avg_fare": 9.5,
+    "avg_distance": 2.21,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 18
+  },
+  {
+    "count": 3,
+    "avg_fare": 6.833333333333333,
+    "avg_distance": 1.3433333333333335,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 0
+  },
+  {
+    "count": 36,
+    "avg_fare": 15.847222222222221,
+    "avg_distance": 4.349444444444445,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 1
+  },
+  {
+    "count": 103,
+    "avg_fare": 10.402912621359222,
+    "avg_distance": 2.7050485436893204,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 9
+  },
+  {
+    "count": 25,
+    "avg_fare": 11.84,
+    "avg_distance": 2.9192,
+    "grid_x": -7393,
+    "grid_y": 4068,
+    "grid_key": "-7393_4068",
+    "hour": 4
+  },
+  {
+    "count": 4,
+    "avg_fare": 51.25,
+    "avg_distance": 16.8125,
+    "grid_x": -7401,
+    "grid_y": 4057,
+    "grid_key": "-7401_4057",
+    "hour": 12
+  },
+  {
+    "count": 31,
+    "avg_fare": 14.096774193548388,
+    "avg_distance": 4.071290322580645,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 7
+  },
+  {
+    "count": 37,
+    "avg_fare": 12.135135135135135,
+    "avg_distance": 3.4827027027027024,
+    "grid_x": -7401,
+    "grid_y": 4066,
+    "grid_key": "-7401_4066",
+    "hour": 5
+  },
+  {
+    "count": 1,
+    "avg_fare": 3.5,
+    "avg_distance": 0.59,
+    "grid_x": -7395,
+    "grid_y": 4074,
+    "grid_key": "-7395_4074",
+    "hour": 1
+  },
+  {
+    "count": 21,
+    "avg_fare": 10.928571428571429,
+    "avg_distance": 2.8904761904761904,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 5
+  },
+  {
+    "count": 7,
+    "avg_fare": 23.428571428571427,
+    "avg_distance": 3.682857142857143,
+    "grid_x": -7395,
+    "grid_y": 4079,
+    "grid_key": "-7395_4079",
+    "hour": 6
+  },
+  {
+    "count": 1,
+    "avg_fare": 7.0,
+    "avg_distance": 1.37,
+    "grid_x": -7396,
+    "grid_y": 4076,
+    "grid_key": "-7396_4076",
+    "hour": 13
+  },
+  {
+    "count": 3,
+    "avg_fare": 15.166666666666666,
+    "avg_distance": 4.29,
+    "grid_x": -7373,
+    "grid_y": 4072,
+    "grid_key": "-7373_4072",
+    "hour": 9
+  },
+  {
+    "count": 3,
+    "avg_fare": 16.166666666666668,
+    "avg_distance": 4.863333333333333,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 1
+  },
+  {
+    "count": 39,
+    "avg_fare": 14.14102564102564,
+    "avg_distance": 3.987692307692308,
+    "grid_x": -7403,
+    "grid_y": 4063,
+    "grid_key": "-7403_4063",
+    "hour": 13
+  },
+  {
+    "count": 10,
+    "avg_fare": 14.75,
+    "avg_distance": 4.287999999999999,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 12
+  },
+  {
+    "count": 2,
+    "avg_fare": 11.25,
+    "avg_distance": 2.94,
+    "grid_x": -7395,
+    "grid_y": 4083,
+    "grid_key": "-7395_4083",
+    "hour": 3
+  },
+  {
+    "count": 1,
+    "avg_fare": 3.0,
+    "avg_distance": 0.3,
+    "grid_x": -7398,
+    "grid_y": 4076,
+    "grid_key": "-7398_4076",
+    "hour": 9
+  },
+  {
+    "count": 175,
+    "avg_fare": 11.356857142857143,
+    "avg_distance": 2.7052,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 12
+  },
+  {
+    "count": 1,
+    "avg_fare": 15.5,
+    "avg_distance": 4.34,
+    "grid_x": -7395,
+    "grid_y": 4074,
+    "grid_key": "-7395_4074",
+    "hour": 12
+  },
+  {
+    "count": 132,
+    "avg_fare": 10.731060606060606,
+    "avg_distance": 2.6395454545454546,
+    "grid_x": -7395,
+    "grid_y": 4077,
+    "grid_key": "-7395_4077",
+    "hour": 3
+  },
+  {
+    "count": 2,
+    "avg_fare": 24.25,
+    "avg_distance": 7.195,
+    "grid_x": -7383,
+    "grid_y": 4071,
+    "grid_key": "-7383_4071",
+    "hour": 16
+  },
+  {
+    "count": 685,
+    "avg_fare": 13.98875912408759,
+    "avg_distance": 3.3528905109489053,
+    "grid_x": -7397,
+    "grid_y": 4078,
+    "grid_key": "-7397_4078",
+    "hour": 2
+  },
+  {
+    "count": 179,
+    "avg_fare": 8.986033519553073,
+    "avg_distance": 2.0887150837988826,
+    "grid_x": -7400,
+    "grid_y": 4072,
+    "grid_key": "-7400_4072",
+    "hour": 12
+  },
+  {
+    "count": 211,
+    "avg_fare": 13.490521327014218,
+    "avg_distance": 3.31303317535545,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 2
+  },
+  {
+    "count": 1,
+    "avg_fare": 23.0,
+    "avg_distance": 6.7,
+    "grid_x": -7402,
+    "grid_y": 4071,
+    "grid_key": "-7402_4071",
+    "hour": 4
+  },
+  {
+    "count": 2,
+    "avg_fare": 27.0,
+    "avg_distance": 9.41,
+    "grid_x": -7402,
+    "grid_y": 4070,
+    "grid_key": "-7402_4070",
+    "hour": 7
+  },
+  {
+    "count": 42,
+    "avg_fare": 12.452380952380953,
+    "avg_distance": 3.441904761904762,
+    "grid_x": -7398,
+    "grid_y": 4075,
+    "grid_key": "-7398_4075",
+    "hour": 7
+  },
+  {
+    "count": 3,
+    "avg_fare": 24.166666666666668,
+    "avg_distance": 7.286666666666666,
+    "grid_x": -7400,
+    "grid_y": 4069,
+    "grid_key": "-7400_4069",
+    "hour": 10
+  },
+  {
+    "count": 5,
+    "avg_fare": 25.3,
+    "avg_distance": 4.172,
+    "grid_x": -7397,
+    "grid_y": 4074,
+    "grid_key": "-7397_4074",
+    "hour": 15
+  },
+  {
+    "count": 161,
+    "avg_fare": 13.9444099378882,
+    "avg_distance": 3.6618012422360247,
+    "grid_x": -7398,
+    "grid_y": 4072,
+    "grid_key": "-7398_4072",
+    "hour": 11
+  },
+  {
+    "count": 7,
+    "avg_fare": 8.928571428571429,
+    "avg_distance": 1.9499999999999997,
+    "grid_x": -7383,
+    "grid_y": 4082,
+    "grid_key": "-7383_4082",
+    "hour": 13
+  },
+  {
+    "count": 1,
+    "avg_fare": 26.5,
+    "avg_distance": 6.92,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 22
+  },
+  {
+    "count": 1,
+    "avg_fare": 40.0,
+    "avg_distance": 14.5,
+    "grid_x": -7398,
+    "grid_y": 4070,
+    "grid_key": "-7398_4070",
+    "hour": 7
+  },
+  {
+    "count": 1,
+    "avg_fare": 17.5,
+    "avg_distance": 5.86,
+    "grid_x": -7387,
+    "grid_y": 4085,
+    "grid_key": "-7387_4085",
+    "hour": 23
+  },
+  {
+    "count": 34,
+    "avg_fare": 15.117647058823529,
+    "avg_distance": 4.1376470588235295,
+    "grid_x": -7401,
+    "grid_y": 4075,
+    "grid_key": "-7401_4075",
+    "hour": 2
+  }
+]

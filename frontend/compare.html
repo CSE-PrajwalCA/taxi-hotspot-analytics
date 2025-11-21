@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Aggregation vs MapReduce - Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { padding: 2rem; background: #f5f6fa; }
+    h1 { color: #222; margin-bottom: 1.5rem; }
+    .metric-card {
+      background: white; border-radius: 12px; padding: 1.25rem;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+      margin-bottom: 1.25rem;
+    }
+    .btn-refresh { background-color: #007bff; color: white; }
+    #trendChart { height: 320px !important; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h1>Aggregation vs MapReduce Analytics</h1>
+    <div>
+      <select id="hourSelect" class="form-select d-inline-block" style="width:auto;">
+        <option value="">Overall</option>
+      </select>
+      <button id="refreshBtn" class="btn btn-refresh ms-2">🔄 Re-run Comparison</button>
+    </div>
+  </div>
+
+  <div id="results">
+    <div class="metric-card">
+      <h4>Execution Summary</h4>
+      <ul id="summaryList"></ul>
+    </div>
+
+    <div class="metric-card">
+      <h4>Accuracy Metrics</h4>
+      <ul id="accuracyList"></ul>
+    </div>
+
+    <div class="metric-card">
+      <h4>Performance Metrics</h4>
+      <ul id="perfList"></ul>
+      <canvas id="perfChart"></canvas>
+    </div>
+
+    <div class="metric-card">
+      <h4>Trend Over Time (Recent Runs)</h4>
+      <canvas id="trendChart"></canvas>
+    </div>
+  </div>
+</div>
+
+<script>
+/* --- dynamically fill hour dropdown --- */
+const select = document.getElementById("hourSelect");
+for (let h = 0; h < 24; h++) {
+  const opt = document.createElement("option");
+  opt.value = h;
+  opt.textContent = `Hour ${h}`;
+  select.appendChild(opt);
+}
+
+/* --- fetch and render metrics --- */
+async function fetchMetrics(hour=null){
+  let url = "/api/compare";
+  if(hour!==null && hour!=="") url += "?hour="+hour;
+  const res = await fetch(url);
+  return await res.json();
+}
+
+function renderMetrics(m){
+  if(m.error){
+    document.getElementById("results").innerHTML=`<div class='alert alert-danger'>${m.error}</div>`;
+    return;
+  }
+
+  document.getElementById("summaryList").innerHTML = `
+    <li>Total Aggregation Rows: <b>${m.total_rows_agg}</b></li>
+    <li>Total MapReduce Rows: <b>${m.total_rows_mapr}</b></li>
+    <li>Common Grid-Hour Keys: <b>${m.common_keys}</b></li>
+    <li>Aggregation-only Keys: <b>${m.agg_only}</b></li>
+    <li>MapReduce-only Keys: <b>${m.mapr_only}</b></li>`;
+
+  document.getElementById("accuracyList").innerHTML = `
+    <li>Exact Matches: <b>${m.exact_matches}</b> (${m.exact_pct}%)</li>
+    <li>Mean Absolute Error (MAE): <b>${m.mae}</b></li>
+    <li>Root Mean Square Error (RMSE): <b>${m.rmse}</b></li>`;
+
+  document.getElementById("perfList").innerHTML = `
+    <li>Aggregation Time: <b>${m.aggregation_time}s</b></li>
+    <li>MapReduce Time: <b>${m.mapreduce_time}s</b></li>
+    <li>Speed Ratio (MapReduce / Aggregation): <b>${m.speed_ratio}× slower</b></li>`;
+
+  renderCharts(m);
+}
+
+let perfChart, trendChart;
+function renderCharts(m){
+  const ctx1=document.getElementById('perfChart').getContext('2d');
+  if(perfChart) perfChart.destroy();
+  perfChart=new Chart(ctx1,{
+    type:'bar',
+    data:{
+      labels:['Aggregation','MapReduce'],
+      datasets:[{label:'Execution Time (s)', data:[m.aggregation_time,m.mapreduce_time], backgroundColor:['#28a745','#dc3545']}]
+    },
+    options:{responsive:true,plugins:{legend:{display:false}}}
+  });
+
+  const ctx2=document.getElementById('trendChart').getContext('2d');
+  if(trendChart) trendChart.destroy();
+  if(!m.trend) return;
+  const labels=m.trend.map(r=>r.timestamp);
+  const agg=m.trend.map(r=>r.agg_time);
+  const mapr=m.trend.map(r=>r.mapr_time);
+  trendChart=new Chart(ctx2,{
+    type:'line',
+    data:{
+      labels:labels,
+      datasets:[
+        {label:'Aggregation Time',data:agg,borderColor:'#28a745',fill:false},
+        {label:'MapReduce Time',data:mapr,borderColor:'#dc3545',fill:false}
+      ]
+    },
+    options:{responsive:true,plugins:{legend:{position:'bottom'}}}
+  });
+}
+
+document.getElementById("refreshBtn").addEventListener("click",async()=>{
+  const hour=document.getElementById("hourSelect").value;
+  const m=await fetchMetrics(hour);
+  renderMetrics(m);
+});
+
+document.getElementById("hourSelect").addEventListener("change",async(e)=>{
+  const m=await fetchMetrics(e.target.value);
+  renderMetrics(m);
+});
+
+// initial load
+fetchMetrics().then(renderMetrics);
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+pandas
+pymongo
+flask
+folium
+numpy
