@@ -1,0 +1,107 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.env.local
+.env.*.local
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# Large data files
+# data/raw/*.csv
+# !data/raw/nyc_taxi_zones.csv
+
+# Results and outputs (keep the directory structure but ignore large files)
+data/results/*.json
+emissions_logs/*.csv
+
+# Database and cache
+*.db
+*.sqlite
+*.sqlite3
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# Node modules (if any frontend dependencies)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS specific
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# IDE specific
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# CodeCarbon emissions tracking (large files)
+emissions_logs/*
+!emissions_logs/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Local development
+.env
+.env.local
+local_config.py
+
+# Keep structure but ignore content
+!data/results/.gitkeep
+!emissions_logs/.gitkeep
+data/results/.gitkeep
+emissions_logs/.gitkeep
