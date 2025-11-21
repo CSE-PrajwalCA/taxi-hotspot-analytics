@@ -558,7 +558,11 @@ from scripts.postprocess import detect_anomalies
 ingest_data("data/raw/yellow_tripdata_2019-01.csv", 
             "mongodb://localhost:27017", 
             "taxi_hotspot_db", 
+<<<<<<< HEAD
             sample_rows=100000, 
+=======
+            sample_rows=5000, 
+>>>>>>> 5285698247d28c126e7fe625af126c32edef3135
             drop=True)
 
 # Run aggregation
